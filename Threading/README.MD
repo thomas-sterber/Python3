@@ -24,5 +24,6 @@
     #th1.join()
     
 ## examples scripts
+    see scripts 
 
 
